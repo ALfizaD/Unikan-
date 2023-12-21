@@ -1,0 +1,144 @@
+/* utilisties */
+.btn {
+    background-color: #13ec91;
+    width: 150px;
+    height: 45px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn:hover {
+    border : 1px solid #13ec91;
+}
+
+.card {
+    width: 100%;
+}
+
+
+
+/* navbar */
+
+.navbar-brand img {
+    width: 120px;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-nav .btn {
+    background-color: #13ec91;
+    width: 115px;
+    height: 45px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-link {
+    margin-right: 20px;
+}
+/* navbar */
+
+/* ukuran gambar hero */
+#hero img {
+    width: 100%;
+}
+/* ukuran gambar hero */ 
+
+/* Kelas */
+#kelas {
+    margin-top: 100px;
+}
+#kelas .cost {
+    margin-top: -10px;
+}
+/* Kelas */
+
+/* testi */
+#testi {margin-top: 100px;
+}
+/* testi */
+
+/* promo */
+#Promo {margin-top: 100px;}
+#Promo img {width: 100%;}
+/* promo */
+
+/* partner */
+#Partner {margin-top: 100px;}
+#Partner img {width: 100%;}
+/* Partner */
+
+/* Footer */
+footer {
+    background-color: #0e2734;
+    color: white;
+    margin-top: 100px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* footer */
+
+/* About */
+#about img {
+    width: 50%;
+
+}
+#About .sosmed img {
+    width: 15%;
+}
+
+#About {
+    text-align: center;
+
+}
+/* About */
+
+/* Daftar */
+#Daftar .container {
+    display: flex;
+    justify-content: center;
+}
+
+#Daftar .btn {
+    margin: auto;
+}
+
+#Daftar h1 {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+#Daftar p {
+    text-align: center;
+}
+/* Daftar */
+
+/* Login */
+#Login .container {
+    display: flex;
+    justify-content: center;
+}
+
+#Login .btn {
+    margin: auto;
+}
+
+#Login h1 {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+#Login p {
+    text-align: center;
+}
+/* Login */
+
+

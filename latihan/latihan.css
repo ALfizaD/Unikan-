@@ -1,0 +1,15 @@
+button {
+    width: 130px;
+}
+
+#deskripsi button {
+    width: 750px;
+    height: 50px;
+}
+
+.tombol {
+    width: 150px;
+    height: 45px;
+    background-color: cyan;
+    color: darkgrey;
+}
